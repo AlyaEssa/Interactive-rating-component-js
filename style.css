@@ -95,7 +95,7 @@ body {
   color: var(--white);
   border-radius: 50px;
   cursor: pointer;
-  font-size: 12px;
+  font-size: 21px;
 }
 
 .submit-btn:hover {
