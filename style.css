@@ -47,12 +47,11 @@ body {
 }
 
 .box-container p {
- 
-  font-size: 18px;
-    max-width: 399px;
+  font-size: 17px;
+    max-width: 378px;
     margin-top: 20px;
     color: var(--medium-grey);
-    line-height: 30px;
+    line-height: 27px;
 }
 
 .header{
