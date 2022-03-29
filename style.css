@@ -47,11 +47,11 @@ body {
 }
 
 .box-container p {
-  font-size: 12px;
-  max-width: 250px;
-  margin-top: 20px;
-  color: var(--medium-grey);
-  line-height: 18px;
+  font-size: 15px;
+    max-width: 308px;
+    margin-top: 20px;
+    color: var(--medium-grey);
+    line-height: 22px;
 }
 
 .rating-btn-container {
