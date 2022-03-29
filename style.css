@@ -54,6 +54,9 @@ body {
     line-height: 22px;
 }
 
+.header{
+  margin-top: 23px;
+}
 .rating-btn-container {
   display: flex;
   justify-content: space-around;
